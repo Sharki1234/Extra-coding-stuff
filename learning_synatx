@@ -1,0 +1,17 @@
+using System;
+namespace Home
+{
+    class Program{
+
+        static void HelloWorld()
+        {
+        Console.WriteLine("HelloWorld");
+        }
+
+        static void Main()
+        {
+            HelloWorld();
+        }
+    }
+    
+}
